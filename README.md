@@ -131,7 +131,7 @@ programa {
     area = aresta * aresta
     perimetro = aresta * 4
 
-    escreva("Área: ", area, ", perímetro: ", perimetro)
+    escreva("Área: ", area, ", perímetro: ", perimetro, "\n")
     escreva("=== FIM ===")
   }
 }
