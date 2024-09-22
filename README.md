@@ -1,6 +1,3 @@
-# UFSC
+# Exercícios de programação UFSC
 
-Exercícios programação UFSC, embrião do projeto math-visualized
-Passando algoritmos de portugol -> python / javascript.
-
-* Importante: passar algoritmos para C
+Exercícios programação UFSC feitos em aula, embrião do projeto math-visualized. Originalmente feitos em pseudocódigo.
